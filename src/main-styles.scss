@@ -1,0 +1,19 @@
+// global styles and changing bulma variables
+
+
+$family-sans-serif:"Nunito",sans-serif;
+
+//bulma variables
+$control-border-width:2px;
+$input-border-color:transparent;
+$input-shadow:none;
+
+html,body{
+  height: 100%;
+
+}
+
+html {
+
+  overflow-y: auto !important;
+}
